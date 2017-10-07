@@ -1,0 +1,11 @@
+D:\Проекты\dll1\TestForEVM\bin\Debug\TestForEVM.exe.config
+D:\Проекты\dll1\TestForEVM\bin\Debug\TestForEVM.exe
+D:\Проекты\dll1\TestForEVM\bin\Debug\TestForEVM.pdb
+D:\Проекты\dll1\TestForEVM\obj\Debug\TestForEVM.exe
+D:\Проекты\dll1\TestForEVM\obj\Debug\TestForEVM.pdb
+E:\dll1\TestForEVM\bin\Debug\TestForEVM.exe.config
+E:\dll1\TestForEVM\bin\Debug\TestForEVM.exe
+E:\dll1\TestForEVM\bin\Debug\TestForEVM.pdb
+E:\dll1\TestForEVM\obj\Debug\TestForEVM.csprojResolveAssemblyReference.cache
+E:\dll1\TestForEVM\obj\Debug\TestForEVM.exe
+E:\dll1\TestForEVM\obj\Debug\TestForEVM.pdb

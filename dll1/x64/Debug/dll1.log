@@ -1,0 +1,6 @@
+﻿  Stdafx.cpp
+  AssemblyInfo.cpp
+  dll1.cpp
+dll1.cpp(8): error C2011: dll1::Class1: переопределение типа "class"
+  d:\проекты\dll1\dll1\dll1.h(11): note:  см. объявление "dll1::Class1"
+  Создание кода...
